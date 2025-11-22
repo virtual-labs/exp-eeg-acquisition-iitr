@@ -1,1 +1,1 @@
-## Experiment name
+## Acquisition of EEG signals using biomedical systems
