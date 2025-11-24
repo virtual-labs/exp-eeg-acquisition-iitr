@@ -1,0 +1,1 @@
+#### To acquire the Electroencephalogram (EEG) signal from the human scalp using a biomedical system and study the electrical activity of the brain.
