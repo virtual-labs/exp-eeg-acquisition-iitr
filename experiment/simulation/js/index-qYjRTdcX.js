@@ -50474,10 +50474,10 @@ const UW = "_container_zkwbr_1",
         isPausedSignal: v,
       } = L0.useContext(Gr),
       y = {
-        normal: "/UniVlabNormal_filtered.csv",
-        eyeBlink: "/UniVlabEyeblink_filtered.csv",
-        jawClenching: "/UniVlabJaw1_filtered.csv",
-        forarmMuscle: "/UniVlabEMGMuscle_filtered.csv",
+        normal: "UniVlabNormal_filtered.csv",
+        eyeBlink: "UniVlabEyeblink_filtered.csv",
+        jawClenching: "UniVlabJaw1_filtered.csv",
+        forarmMuscle: "UniVlabEMGMuscle_filtered.csv",
       },
       x =
         {
