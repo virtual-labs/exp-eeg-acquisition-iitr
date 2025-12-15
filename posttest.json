@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What happens if the impedance between the electrode and scalp is too high?",
+    "answers": {
+      "a": "Signal amplitude increases",
+      "b": "Better brain signal detection",
+      "c": "Poor signal quality and more noise",
+      "d": "More alpha waves are visible"
+    },
+    "correctAnswer": "c"
+  },
+  {
+    "question": "What is the function of an EEG amplifier during signal acquisition?",
+    "answers": {
+      "a": "Filters out low-frequency signals",
+      "b": "Stores brainwave images",
+      "c": "Increases the voltage of weak brain signals for analysis",
+      "d": "Converts signals into sound waves"
+    },
+    "correctAnswer": "c"
+  },
+  {
+    "question": "Afferent nerves carry information:",
+    "answers": {
+      "a": "From brain to muscles",
+      "b": "From body to CNS",
+      "c": "Only within spinal cord",
+      "d": "Between muscles only"
+    },
+    "correctAnswer": "b"
+  },
+  {
+    "question": "A sudden burst of high-voltage spikes in EEG may indicate:",
+    "answers": {
+      "a": "Relaxation",
+      "b": "Potential epileptic activity",
+      "c": "Eye blinking only",
+      "d": "Increase in alpha rhythm"
+    },
+    "correctAnswer": "b"
+  },
+  {
+    "question": "The temporal lobe is primarily responsible for:",
+    "answers": {
+      "a": "Vision",
+      "b": "Motor planning",
+      "c": "Smell",
+      "d": "Hearing and memory"
+    },
+    "correctAnswer": "d"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "question": "The basic structural unit of the nervous system is the:",
+    "answers": {
+      "a": "Glial cell",
+      "b": "Neuron",
+      "c": "Muscle fiber",
+      "d": "Blood vessel"
+    },
+    "correctAnswer": "b"
+  },
+  {
+    "question": "The axon hillock is responsible for:",
+    "answers": {
+      "a": "Receiving information",
+      "b": "Initiating nerve impulses",
+      "c": "Producing neurotransmitters",
+      "d": "Blood supply"
+    },
+    "correctAnswer": "b"
+  },
+  {
+    "question": "Which structure lies beneath the cerebrum and is also divided into two halves?",
+    "answers": {
+      "a": "Thalamus",
+      "b": "Cerebellum",
+      "c": "Cortex",
+      "d": "Meninges"
+    },
+    "correctAnswer": "b"
+  },
+  {
+    "question": "The primary clinical use of EEG is to diagnose:",
+    "answers": {
+      "a": "Parkinson’s disease",
+      "b": "Seizure disorders like epilepsy",
+      "c": "Stroke",
+      "d": "Brain tumors"
+    },
+    "correctAnswer": "b"
+  },
+  {
+    "question": "Which lobe of the brain is primarily responsible for visual processing?",
+    "answers": {
+      "a": "Frontal",
+      "b": "Parietal",
+      "c": "Temporal",
+      "d": "Occipital"
+    },
+    "correctAnswer": "d"
+  }
+]
