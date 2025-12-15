@@ -59,6 +59,11 @@ The peripheral nervous system actually consists of several subsystems. The syste
 <center><img src="images/eegFrequencyBand.png" style="width: auto; height: 350px; mix-blend-mode: darken"></center><br>
 <center><b>Figure-6: Typical EEG waveforms and frequency bands</b></center><br>
 
+<h4>Frequency-Domain Representation of EEG Signals</h4>
+<p>EEG signals can also be analyzed in the frequency domain using spectral analysis. The power spectral density (PSD) plot represents the distribution of signal power across different frequency bands. Figure 7 shows a typical PSD of EEG signals recorded from an awake resting subject under eyes-open and eyes-closed conditions. It can be observed that alpha band activity (8–13 Hz) is prominent during eyes-closed condition and gets suppressed when the eyes are opened. This demonstrates the dependence of EEG rhythms on physiological and mental states.</p>
+<center><img src="images/psdEye.png" style="width: auto; height: 350px; mix-blend-mode: darken"></center><br>
+<center><b>Figure-7: Power Spectral Density of EEG signals for eyes-open and eyes-closed conditions</b></center><br>
+
 <h4>EEG Electrodes Placement and Acquisition</h4>
 <p>EEG can be recorded by three types of electrodes:</p>
 <ul>
@@ -72,20 +77,20 @@ The peripheral nervous system actually consists of several subsystems. The syste
   <li><b>Wet electrodes (gel):</b> Provide low impedance and high-quality recordings, standard in clinical use.</li>
   <li><b>Dry electrodes:</b>Faster setup and portable, but with higher impedance and lower accuracy.</li>
 </ul>
-<p>EEG can be recorded in two modes (Fig.7):</p>
+<p>EEG can be recorded in two modes (Fig.8):</p>
 <ul>
   <li>Unipolar (monopolar)</li>
   <li>Bipolar</li>
 </ul>
 <center><img src="images/uniAndbipolarEeg.png" style="width: auto; height: 350px; mix-blend-mode: darken"></center><br>
-<center><b>The type of EEG channels. Bipolar type (top) and unipolar type or monopolar (bottom).</b></center><br>
+<center><b>Figure-8: The type of EEG channels. Bipolar type (top) and unipolar type or monopolar (bottom).</b></center><br>
 
 <h4>10–20 EEG Electrode Configuration</h4>
 <p>Placement of electrodes on the scalp is commonly dictated by the requirements of the measurement to be made. In clinical practice, a standard pattern, called the 10–20 electrode placement system, is generally used. This system, devised by a committee of the International Federation of Societies for Electroencephalography, is so named because electrode spacing is based on intervals of 10 and 20 percent of the distance between specified points on the scalp. Position is based on distance between Nasion to Inion i.e. from front to back and distance between two ear lobes. The 10–20 EEG electrode configuration is illustrated in Fig:8.
 
 </p>
 <center><img src="images/electrodesPlacement.png" style="width: auto; height: 350px; mix-blend-mode: darken"></center><br>
-<center><b>Figure-8:The 10–20 system with front-back (nasion to inion) 10% and 20% electrode distances.</b></center><br>
+<center><b>Figure-9:The 10–20 system with front-back (nasion to inion) 10% and 20% electrode distances.</b></center><br>
 <p>In all there are 21 electrodes: 19 active electrodes and 2 reference electrodes –</p>
 <ul>
   <li><b>Prefrontal:</b> Fp1, Fp2</li>
